@@ -148,7 +148,7 @@ pycryptodome==3.9.7
 pycurl==7.43.0.5
 pyenchant==3.1.1
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pynvx==1.0.0
 pyparsing==2.4.6
 PyPDF2==1.26.0
